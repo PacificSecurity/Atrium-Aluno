@@ -1,0 +1,8 @@
+# Somente os arquivos públicos do laboratório entram no repositório.
+/*
+!/.gitignore
+!/README.md
+!/COMO-SUBIR.md
+!/WRITEUP.md
+!/SHA256SUMS
+!/atrium-lab.tar.gz
