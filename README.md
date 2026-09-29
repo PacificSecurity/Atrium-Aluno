@@ -1,12 +1,15 @@
 # Atrium — laboratório da atividade individual
 
-Este é o laboratório da atividade individual, disponibilizado para você refazer
-os exercícios depois da avaliação. O pacote traz as oito variantes, de A a H,
+Este é o laboratório da atividade individual de segurança web, disponibilizado
+para estudo e prática após a avaliação. O pacote traz as oito variantes, de A a H,
 e o [writeup das 23 flags](WRITEUP.md).
 
+Se você não participou da atividade, comece pela [descrição da atividade](ATIVIDADE.md)
+para conhecer o objetivo, o escopo, as regras e os tipos de desafio.
+
 A aplicação mantém os mecanismos da atividade. As imagens usam dados de cenário
-e flags próprios para prática; os valores não correspondem aos da sua instância
-de avaliação. Pagamentos e envio de e-mails são simulados.
+e flags próprios para prática; os valores não correspondem aos utilizados nas
+instâncias da avaliação original. Pagamentos e envio de e-mails são simulados.
 
 ## Começar
 
@@ -33,6 +36,7 @@ e outras máquinas ARM64, é necessária emulação AMD64. Consulte
 
 | Arquivo | Conteúdo |
 |---|---|
+| [ATIVIDADE.md](ATIVIDADE.md) | Contexto, objetivo, escopo, regras e distribuição das flags |
 | [atrium-lab.tar.gz](atrium-lab.tar.gz) | As oito imagens Docker prontas para carregar |
 | [SHA256SUMS](SHA256SUMS) | Checksum para conferir a integridade do tar |
 | [COMO-SUBIR.md](COMO-SUBIR.md) | Cadastro, troca de variante, reinício e solução de problemas |
